@@ -4,26 +4,32 @@
 "remoteManifestUrl": "https://truee.top/diy/moregame/version/project.manifest",
 "remoteVersionUrl": "https://truee.top/diy/moregame/version/version.manifest",
 "assets": {
-"src/project.js": {
-"size": 748,
-"md5": "c7591f6283a78b01e1518ba1faf40f24"
+
+"more/icon/0.png" : {
+"md5" : "....."
 },
-"src/settings.js": {
-"size": 509,
-"md5": "5c0bd8e7a29c8b6570e21216f1bcdc72"
+"more/icon/1.png" : {
+"md5" : "....."
 },
-"res/import/05/05dd1dc0e.json": {
-"size": 2017,
-"md5": "588d835f61aed86cdf1dd1d838d11467"
+
+"more/icon/2.png" : {
+"md5" : "....."
 },
-"res/raw-assets/Texture/HelloWorld.png": {
-"size": 37864,
-"md5": "a69a0b857f7462f4dd0d00bb5231a721"
+
+"more/icon/3.png" : {
+"md5" : "....."
 },
-"res/raw-assets/Texture/singleColor.png": {
-"size": 17197,
-"md5": "5825642f69b6fed137482bf89f8f1fd5"
-}
+"more/icon/4.png" : {
+"md5" : "....."
+},
+
+"more/icon/5.png" : {
+"md5" : "....."
+},
+"more/config.plist" : {
+"md5" : "....."
+},
+
 },
 "searchPaths": []
 }

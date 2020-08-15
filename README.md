@@ -15,11 +15,11 @@ We will make any legally requireddisclosures of any breach of the security, conf
 
 ### Changing or Removing Information
 
-As a user of an account, you may update ordelete the Personal Information in your profile by logging into your account.You may also email us at dinosaur.robot.diy@gmail.com to request that we deleteyour Personal Information from our database. We will use commerciallyreasonable efforts to honor your request. We may retain an archived copy ofyour records as required by law or for legitimate business purposes. SpecificShared Data cannot be retrieved from Preferred Partners after its disclosure.
+As a user of an account, you may update ordelete the Personal Information in your profile by logging into your account.You may also email us at 285744252@qq.com to request that we deleteyour Personal Information from our database. We will use commerciallyreasonable efforts to honor your request. We may retain an archived copy ofyour records as required by law or for legitimate business purposes. SpecificShared Data cannot be retrieved from Preferred Partners after its disclosure.
 
 Where you share information with otherusers through the communication channels of our Services, you generally shouldnot expect to have any ability to modify or remove such communications. Norshould you expect us to modify or delete your comments upon your request.
 
-If your friend received an invitation from Ture.E.Fun  per your referral to try the Services, your friend mayrequest that the name and email address used in the invitation be removed from Ture.E.Fun ’s records. We store this information for the sole purposes ofmeasuring the effectiveness of our referral program and sending the email youinitiated, but your friend can request to have it removed from our database byemailing us at dinosaur.robot.diy@gmail.com.
+If your friend received an invitation from Ture.E.Fun  per your referral to try the Services, your friend mayrequest that the name and email address used in the invitation be removed from Ture.E.Fun ’s records. We store this information for the sole purposes ofmeasuring the effectiveness of our referral program and sending the email youinitiated, but your friend can request to have it removed from our database byemailing us at 285744252@qq.com.
 
 ### Links to Other Websites and Services
 

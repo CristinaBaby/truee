@@ -4,27 +4,26 @@
 "remoteManifestUrl": "http://truee.top/diy/moregame/version/project.manifest",
 "remoteVersionUrl": "http://truee.top/diy/moregame/version/version.manifest",
 "assets": {
-
 "more/icon/0.png": {
-"md5": "....."
+"md5": "5D8C47FDDCAE6FDB"
 },
 "more/icon/1.png": {
-"md5": "....."
+"md5": "C66298071A75A2E8"
 },
 
 "more/icon/2.png": {
-"md5": "....."
+"md5": "72CED6F777F93AD1"
 },
 
 "more/icon/4.png": {
-"md5": "....."
+"md5": "AC43B426C1DD6099"
 },
 
 "more/icon/5.png": {
-"md5": "....."
+"md5": "1563614EAB768D1E"
 },
 "more/config.plist": {
-"md5": "....."
+"md5": "59854F343C40A532"
 }
 },
 "searchPaths": []

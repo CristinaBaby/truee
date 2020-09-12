@@ -1,8 +1,8 @@
 {
 "version": "1.0.1",
 "packageUrl": "http://truee.top/diy/moregame/res/",
-"remoteManifestUrl": "http://truee.top/diy/moregame/version/project.manifest",
-"remoteVersionUrl": "http://truee.top/diy/moregame/version/version.manifest",
+"remoteManifestUrl": "http://truee.top/diy/moregame/version/project.manifest.json",
+"remoteVersionUrl": "http://truee.top/diy/moregame/version/version.manifest.json",
 "assets": {
 "more/icon/0.png": {
 "md5": "5D8C47FDDCAE6FDB"
